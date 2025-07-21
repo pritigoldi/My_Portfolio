@@ -1,6 +1,8 @@
 import { FaEnvelopeOpenText, FaGithub, FaLinkedin, FaPhoneAlt, FaEnvelope } from 'react-icons/fa';
 import emailjs from 'emailjs-com';
 import { useRef, useState } from 'react';
+import emailjs from 'emailjs-com';
+import emailjs from '@emailjs/browser';
 
 function Contacts() {
   const formRef = useRef();
