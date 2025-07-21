@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+/* :root {
+  --color-primary: #3a4a6d;
+  --color-secondary: #646cff;
+  --color-accent: #a5b4fc;
+  --color-bg: #f5f7fa;
+  --color-card: #f7faff;
+  --color-text: #1a2233;
+  --color-border: #e0e7ff;
+  --color-shadow: rgba(60,80,120,0.10);
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: var(--color-secondary);
+  text-decoration: inherit;
+  transition: color 0.2s;
+}
+a:hover {
+  color: var(--color-primary);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  color: var(--color-primary);
+}
+
+button {
+  border-radius: 8px;
+  border: none;
+  padding: 0.7em 1.5em;
+  font-size: 1.1rem;
+  font-weight: 600;
+  font-family: inherit;
+  background: linear-gradient(90deg, var(--color-secondary) 0%, var(--color-primary) 100%);
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 2px 8px var(--color-shadow);
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+button:hover {
+  background: linear-gradient(90deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+  color: #fff;
+  box-shadow: 0 4px 16px var(--color-shadow);
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: var(--color-text);
+    background-color: var(--color-bg);
+  }
+  a:hover {
+    color: var(--color-accent);
+  }
+  button {
+    background-color: var(--color-card);
+  }
+} */
